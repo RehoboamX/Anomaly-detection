@@ -17,7 +17,7 @@ from utils import *
 
 
 DEVICE = "cuda:0"
-root_path = './Project-DFC'
+root_path = './DFC-VGG-github'
 
 # data sets
 textures = ['carpet', 'grid', 'leather', 'tile', 'wood']
